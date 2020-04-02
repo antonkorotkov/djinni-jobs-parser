@@ -1,0 +1,21 @@
+{
+  "name": "kinkedin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.17",
+    "@types/md5": "^2.1.33",
+    "@types/mongoose": "^5.7.8",
+    "@types/set-cookie-parser": "^0.0.6",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "md5": "^2.2.1",
+    "mongoose": "^5.9.7",
+    "node-html-parser": "^1.2.14",
+    "set-cookie-parser": "^2.4.3"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
