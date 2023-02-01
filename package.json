@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
     "md5": "^2.2.1",
-    "mongoose": "^5.9.7",
+    "mongoose": "^5.13.15",
     "node-html-parser": "^1.2.14",
     "set-cookie-parser": "^2.4.3"
   },
